@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fecha()
+comment1.params=dia\ mes\ anio
+comment1.target=Fecha(byte,\ byte,\ short)
+comment10.params=texto
+comment10.target=void\ p(java.lang.Object)
+comment2.params=
+comment2.target=byte\ getDia()
+comment3.params=dia
+comment3.target=void\ setDia(byte)
+comment4.params=
+comment4.target=byte\ getMes()
+comment5.params=mes
+comment5.target=void\ setMes(byte)
+comment6.params=
+comment6.target=short\ getAnio()
+comment7.params=anio
+comment7.target=void\ setAnio(short)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=java.lang.String\ fechaConPalabras()
+numComments=11
