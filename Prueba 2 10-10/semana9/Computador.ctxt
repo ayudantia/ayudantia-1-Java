@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Computador
+comment0.text=\r\n\ Abstract\ class\ Computador\ -\ write\ a\ description\ of\ the\ class\ here\r\n\ \r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=
+comment1.target=Computador()
+comment2.params=id\ marca\ ram\ precio\ cantidad
+comment2.target=Computador(int,\ java.lang.String,\ byte,\ int,\ int)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ obtenerTotalCompra()
+comment6.params=
+comment6.target=double\ totalFinal()
+numComments=7

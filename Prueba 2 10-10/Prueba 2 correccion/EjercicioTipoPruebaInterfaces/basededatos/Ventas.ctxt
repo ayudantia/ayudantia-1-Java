@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=producto
+comment0.target=boolean\ agregar(modelos.Producto)
+comment1.params=
+comment1.target=java.util.ArrayList\ listar()
+comment2.params=id
+comment2.target=modelos.Producto\ buscar(java.lang.String)
+comment3.params=id
+comment3.target=boolean\ eliminar(java.lang.String)
+comment4.params=producto
+comment4.target=boolean\ modificar(modelos.Producto)
+comment5.params=
+comment5.target=modelos.Producto\ ventaMayor()
+numComments=6

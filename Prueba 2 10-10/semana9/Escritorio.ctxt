@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Escritorio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Escritorio\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=id\ marca\ ram\ precio\ cantidad\ tipoEscritorio
+comment1.target=Escritorio(int,\ java.lang.String,\ byte,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ descuento()
+numComments=4
