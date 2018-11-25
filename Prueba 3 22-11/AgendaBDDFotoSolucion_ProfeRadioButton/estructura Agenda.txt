@@ -1,0 +1,20 @@
+CREATE DATABASE Agenda;
+use agenda;
+
+create table persona(
+    rut varchar(10) primary key,
+    nombre varchar(20),
+    genero bit,
+    carrera varchar(20),  
+    fono varchar(10),
+    rutaFoto varchar(20)
+);
+
+insert into persona values('1','Sandra',0,'Contador','11111','foto1.jpg');
+insert into persona values('2','Susana',0,'Secretaria','22222','foto2.jpg');
+insert into persona values('3','Sonia',0,'Ingeniero Inf.','33333','foto3.jpg');
+insert into persona values('4','Soledad',0,'Analista','44444','foto4.jpg');
+insert into persona values('5','Sara',0,'Auditor','55555','foto5.jpg');
+
+
+//  bin(genero)

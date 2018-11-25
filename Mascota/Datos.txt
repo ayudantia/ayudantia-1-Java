@@ -1,0 +1,17 @@
+CREATE DATABASE mascota;
+use mascota;
+
+create table perrito(
+    id varchar(10) primary key,
+    nombre varchar(20),
+    genero bit,
+    dueno varchar(30),  
+    fono varchar(10),
+    rutaFoto varchar(20)    
+);
+
+insert into perrito values('1','Jaison',0,'Contador','11111','foto1.jpg');
+insert into perrito values('2','Jack',0,'Secretaria','22222','foto2.jpg');
+insert into perrito values('3','Malicia',0,'Ingeniero Inf.','33333','foto3.jpg');
+insert into perrito values('4','Ayudante de Santa',0,'Analista','44444','foto4.jpg');
+insert into perrito values('5','El Asesino',0,'Auditor','55555','foto5.jpg');
